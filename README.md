@@ -1,11 +1,4 @@
 <!-- =========================================================================
-   HEADER: ANIMATED WAVE GRADIENT BANNER (Dark Blue to Electric Cyan)
-   ========================================================================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZidanKhoirulR/ZidanKhoirulR/main/assets/header.svg" width="100%" alt="Welcome to my Code Universe" />
-</div>
-
-<!-- =========================================================================
    ANIMATED TYPING TAGLINE
    ========================================================================= -->
 <div align="center">
@@ -98,13 +91,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZidanKhoirulR/ZidanKhoirulR/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ZidanKhoirulR/ZidanKhoirulR/output/github-contribution-grid-snake-dark.svg" width="97%">
   </picture>
-</div>
-
-<br/><br/>
-
-<!-- =========================================================================
-   FOOTER: ANIMATED WAVE GRADIENT
-   ========================================================================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZidanKhoirulR/ZidanKhoirulR/main/assets/footer.svg" width="100%" alt="Footer Wave" />
 </div>
