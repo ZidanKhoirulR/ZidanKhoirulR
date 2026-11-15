@@ -2,7 +2,7 @@
    HEADER: ANIMATED WAVE GRADIENT BANNER (Dark Blue to Electric Cyan)
    ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:0070f3,100:00F0FF&height=220&section=header&text=Welcome%20to%20my%20Code%20Universe&fontSize=38&fontAlignY=38&fontColor=ffffff&desc=DanRiz%20%7C%20Web%20Developer%20%26%20Software%20Craftsman&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="./assets/header.svg" width="100%" alt="Welcome to my Code Universe" />
 </div>
 
 <!-- =========================================================================
@@ -106,5 +106,5 @@
    FOOTER: ANIMATED WAVE GRADIENT
    ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F0FF,50:0070f3,100:0d1117&height=120&section=footer" width="100%" />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Wave" />
 </div>
