@@ -17,35 +17,25 @@
 <br/>
 
 <!-- =========================================================================
-   BENTO GRID: ABOUT ME & TECH STACK
+   BENTO GRID: ABOUT ME & TECH STACK (Clean Minimalist - No Emoticons)
    ========================================================================= -->
 <table width="100%">
   <tr>
     <td width="48%" valign="top">
-      <h3>🚀 &nbsp;About Me</h3>
+      <h3>About Me</h3>
       <p>
-        Hi, I'm <b>Zidan Khoirul Rizki</b> (known as <i>DanRiz</i>)! A passionate Web Developer focused on building clean, high-performing digital experiences and robust web architectures.
+        Hi, I'm <b>Zidan Khoirul Rizki</b> (known as <i>DanRiz</i>). A Web Developer focused on building clean, high-performing digital experiences and robust web architectures.
       </p>
       <ul>
-        <li>🔭 <b>Working on:</b> Full-stack web applications, interactive web portals, and SPK systems</li>
-        <li>🌱 <b>Exploring:</b> Scalable cloud architectures, modern 3D web elements, and AI integration</li>
-        <li>💼 <b>Portfolio:</b> <a href="https://zidanrizki.vercel.app">zidanrizki.vercel.app</a></li>
-        <li>💬 <b>Ask me about:</b> Laravel, Next.js, TypeScript, React, and REST APIs</li>
-        <li>⚡ <b>Motto:</b> <i>Clean Code, Seamless Experience</i></li>
+        <li><b>Focus:</b> Full-stack web applications, interactive web portals, and Decision Support Systems (SPK)</li>
+        <li><b>Interests:</b> Modern web architectures, 3D web elements, and performance optimization</li>
+        <li><b>Portfolio:</b> <a href="https://zidanrizki.vercel.app">zidanrizki.vercel.app</a></li>
+        <li><b>Tech Focus:</b> Next.js, TypeScript, React, Laravel, and RESTful APIs</li>
       </ul>
-      <br/>
-      <div align="left">
-        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zidankhoirul19@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-zidankhoirul19%40gmail.com-0070f3?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://instagram.com/dann.riz_" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-@dann.riz_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-      </div>
     </td>
     <td width="52%" valign="top">
-      <h3>🛠️ &nbsp;Tech Stack & Tools</h3>
-      <p><b>Frontend Development:</b></p>
+      <h3>Tech Stack & Tools</h3>
+      <p><b>Frontend:</b></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -78,20 +68,20 @@
 <br/>
 
 <!-- =========================================================================
-   GITHUB STATS & LANGUAGES (Dark TokyoNight Theme)
+   GITHUB STATS & LANGUAGES (Reliable High-Speed Mirror - TokyoNight Theme)
    ========================================================================= -->
 <div align="center">
-  <h2>📊 &nbsp;GitHub Analytics</h2>
+  <h2>GitHub Analytics</h2>
   <br/>
   <a href="https://github.com/ZidanKhoirulR">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZidanKhoirulR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=0070f3&text_color=c0caf5" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ZidanKhoirulR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=0070f3&text_color=c0caf5" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ZidanKhoirulR">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidanKhoirulR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c0caf5" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZidanKhoirulR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c0caf5" width="48%" alt="Top Languages" />
   </a>
   <br/><br/>
   <a href="https://github.com/ZidanKhoirulR">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZidanKhoirulR&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=0070f3&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F0FF" width="97%" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=ZidanKhoirulR&theme=tokyonight&hide_border=true&background=0d1117&ring=00F0FF&fire=0070f3&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F0FF" width="97%" alt="Streak Stats" />
   </a>
 </div>
 
@@ -101,8 +91,7 @@
    CONTRIBUTION SNAKE GAME ANIMATION
    ========================================================================= -->
 <div align="center">
-  <h2>🐍 &nbsp;Contribution Snake Activity</h2>
-  <p><i>Watch the snake eat commits on my contribution calendar!</i></p>
+  <h2>Contribution Activity</h2>
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZidanKhoirulR/ZidanKhoirulR/output/github-contribution-grid-snake-dark.svg">
