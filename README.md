@@ -2,7 +2,7 @@
    HEADER: ANIMATED WAVE GRADIENT BANNER (Dark Blue to Electric Cyan)
    ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavenow&color=0:0d1117,50:0070f3,100:00F0FF&height=220&section=header&text=Welcome%20to%20my%20Code%20Universe&fontSize=38&fontAlignY=38&fontColor=ffffff&desc=DanRiz%20%7C%20Web%20Developer%20%26%20Software%20Craftsman&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d1117,50:0070f3,100:00F0FF&height=220&section=header&text=Welcome%20to%20my%20Code%20Universe&fontSize=38&fontAlignY=38&fontColor=ffffff&desc=DanRiz%20%7C%20Web%20Developer%20%26%20Software%20Craftsman&descAlignY=58&descSize=18&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <!-- =========================================================================
@@ -77,7 +77,7 @@
     <img src="https://github-readme-stats-fast.vercel.app/api?username=ZidanKhoirulR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=0070f3&text_color=c0caf5" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/ZidanKhoirulR">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZidanKhoirulR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c0caf5" width="48%" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ZidanKhoirulR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c0caf5" width="48%" alt="Top Languages" />
   </a>
   <br/><br/>
   <a href="https://github.com/ZidanKhoirulR">
@@ -106,5 +106,5 @@
    FOOTER: ANIMATED WAVE GRADIENT
    ========================================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavenow&color=0:00F0FF,50:0070f3,100:0d1117&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00F0FF,50:0070f3,100:0d1117&height=120&section=footer" width="100%" />
 </div>
