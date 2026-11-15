@@ -2,7 +2,7 @@
    HEADER: ANIMATED WAVE GRADIENT BANNER (Dark Blue to Electric Cyan)
    ========================================================================= -->
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Welcome to my Code Universe" />
+  <img src="https://raw.githubusercontent.com/ZidanKhoirulR/ZidanKhoirulR/main/assets/header.svg" width="100%" alt="Welcome to my Code Universe" />
 </div>
 
 <!-- =========================================================================
@@ -106,5 +106,5 @@
    FOOTER: ANIMATED WAVE GRADIENT
    ========================================================================= -->
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Footer Wave" />
+  <img src="https://raw.githubusercontent.com/ZidanKhoirulR/ZidanKhoirulR/main/assets/footer.svg" width="100%" alt="Footer Wave" />
 </div>
